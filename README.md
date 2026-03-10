@@ -2,7 +2,7 @@
 
 Smart Job Tracker is a backend system designed to help job seekers track job applications and manage interview progress.
 
-嘗試使用Py建立後端_為求職者設計的自動化追蹤系統，並習慣使用Git。(已經用SpringBoot做了一個，但當時還沒用Git的習慣)
+使用Py建立後端_為求職者設計的自動化追蹤系統，並使用Git。(已會SpringBoot架構，但當時沒用Git的習慣)
 
 This project demonstrates backend development skills including RESTful API design, database modeling, scheduled tasks, containerization with Docker, and cloud deployment on Google Cloud Platform.
 
